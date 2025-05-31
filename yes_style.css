@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(250, 175, 221);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.container {
+    text-align: center;
+}
+
+.header_text {
+    font-size: 3em;
+    color: rgb(159, 114, 203);
+}
+
+.gif_container img{
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+}
+
+.img-kiss{
+    border-radius: 50px;
+    margin-top: 20px;
+
+}
