@@ -15,8 +15,7 @@ This project is just for fun and DOM manipulation practice.
 - `yes_page.html`: Page for "Yes" answer
 - `yes_style.css`: Styling for the "Yes" page
 
-## Live Demo
-*(You can add GitHub Pages link after upload)*
+
 
 ## License
 MIT
